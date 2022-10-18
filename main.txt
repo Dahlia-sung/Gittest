@@ -1,6 +1,9 @@
+
+d2(a);
 develop2(a);
 
 main
+
 hansol ZZang
 2 cute hansol
 pretty hansol
